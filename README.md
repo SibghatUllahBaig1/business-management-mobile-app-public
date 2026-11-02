@@ -11,6 +11,8 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
+<a href="https://apps.apple.com/us/app/brilliant-directories/id898641614"><img alt="Download on the App Store" src="https://img.shields.io/badge/App_Store-Download_Now-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+
 </div>
 
 > 🔒 **Source code is private** (commercial project). This page documents what I built, the engineering decisions behind it, and the results. Architecture walkthroughs are available on request.
@@ -70,7 +72,9 @@ lib/
 ## 📸 Screenshots
 
 <!-- Replace with real screenshots, e.g. <img src="screenshots/home.png" width="220"/> -->
-*Screenshots available on request.*
+📲 **[View the live app on the App Store](https://apps.apple.com/us/app/brilliant-directories/id898641614)**
+
+*More screenshots available on request.*
 
 ---
 
